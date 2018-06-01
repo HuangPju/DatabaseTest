@@ -76,7 +76,7 @@ public class TwoPageActivity extends AppCompatActivity implements View.OnClickLi
                 for (int i = 0; i < users.size(); i++) {
                     userName += users.get(i).getUsername()+",";
                 }
-                Log.d("tag","查询全部数据==>" + userName);
+                Log.d("tag","查询  全部数据==>" + userName);
                 break;
             case R.id.delete:
                 break;
