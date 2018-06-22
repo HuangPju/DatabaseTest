@@ -20,6 +20,7 @@ public class SQLiteActivity extends AppCompatActivity implements View.OnClickLis
     private Button ModifyBtn;
     private Button two;
     private Button twopage;
+	//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
